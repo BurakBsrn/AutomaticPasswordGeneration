@@ -1,0 +1,45 @@
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.exe
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.deps.json
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.runtimeconfig.json
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfo.cs
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\refint\ConsoleApp29.dll
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.genruntimeconfig.cache
+C:\Users\burak\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net6.0\ref\ConsoleApp29.dll
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.exe
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.deps.json
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.runtimeconfig.json
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfo.cs
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\refint\ConsoleApp29.dll
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.genruntimeconfig.cache
+C:\Users\burak\source\repos\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ref\ConsoleApp29.dll
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.exe
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.deps.json
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.runtimeconfig.json
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\bin\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.AssemblyInfo.cs
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.dll
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\refint\ConsoleApp29.dll
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.pdb
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ConsoleApp29.genruntimeconfig.cache
+C:\Users\burak\Desktop\Otomatik Şifre Oluşturma\ConsoleApp29\obj\Debug\net6.0\ref\ConsoleApp29.dll
